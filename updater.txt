@@ -1,18 +1,18 @@
 {
-  "fnmods_update": [
+  "Insta_Update": [
     {
- "version":"9.62",
+ "version":"V54",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"instagram New update
 
-Base: 2.23 1.76
+Base: 342.0.0.5.10
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+---------------------
 
-Nuevo Systema de Actualización 
+Mr_Rakshit_2.0 YouTuber Channel
 
- Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
+disponible ",
+"download":"https://telegram.me/Mr_Rakshit_2_0"
 }
   ]
 }
